@@ -1,0 +1,36 @@
+What is Emmet ? 
+Ans : * Web Development Tool
+      * Little Abbrevation that creata huge code 
+      * Inbuilt in modern code editors
+      * Specailly used for HTML and CSS
+      * Example '!' create whole HTML Boiler Plate
+
+Difference between Library and Framework ?
+Ans : * Library has predefined functions and classes which helps developers to make their developement easy
+        Framwork provide a foundation on which developer makes their product
+      * It is easy to integrate Library in our code than the Framework
+
+
+What is CDN ? Why do we use it ?
+Ans : * CDN stands for Content Delivery Network.Distrubuted network of servers which provide the web content 
+        around the world
+
+Why is React known as React?
+Ans : * React is Javascript library to create user interface, got its name due to core concept to reacting to updation of user interface
+       smoothly and effectively and it also motivates to break our UI in parts to create more complex User Interfaces
+
+What is crossorigin in script tag?
+Ans : * crossorigin refers to interaction of different origin like interaction b/w user who uses cdn link and the server which 
+        provide the cdn link.It has two values 'anonmous'and 'use-credential'. The anonmous one dont sent any 
+        credential and cookies to provider server and in case of use credential it provide the info about user
+
+What is diference between React and ReactDOM 
+Ans : * Both are different packages of react ecosystem , react provide way to build UI and ReactDOM provide a way to render
+        it in browzer       
+
+What is difference between react.development.js and react.production.js files via CDN? 
+Ans : * First one is lighter file than the second file , first one is used for personal UI development and
+        second one we uses when we want out project to get in production
+
+
+
