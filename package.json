@@ -1,0 +1,22 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujitmemane/ReactInDepth1.git"
+  },
+  "author": "Sujit Memane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujitmemane/ReactInDepth1/issues"
+  },
+  "homepage": "https://github.com/sujitmemane/ReactInDepth1#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
